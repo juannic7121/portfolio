@@ -1,0 +1,13 @@
+export { About } from "./About";
+export { CaseStudies } from "./CaseStudies";
+export { Contact } from "./Contact";
+export { Experience } from "./Experience";
+export { FAQ } from "./FAQ";
+export { FeaturedWebsites } from "./FeaturedWebsites";
+export { Hero } from "./Hero";
+export { Opportunities } from "./Opportunities";
+export { Process } from "./Process";
+export { Projects } from "./Projects";
+export { Services } from "./Services";
+export { Skills } from "./Skills";
+export { Testimonials } from "./Testimonials";
